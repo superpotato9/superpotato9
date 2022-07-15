@@ -1,7 +1,8 @@
 <h1 align="center">Hi<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Nathan</h1>
-<a href="superpotato9.com"> also checkout my website </a>
+
 Im a (mostly) backend open source devloper 
 some of my interests are projects that invlove ml, music, and art.
+<a href="superpotato9.com"> also checkout my website </a>
 
 
 - I’m currently working on a tv-show version of wordle 
