@@ -1,11 +1,12 @@
 <h1 align="center">Hi<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Nathan</h1>
-
-Im a Open source and ai enthuiest 
+<a href="superpotato9.com"> also checkout my website </a>
+Im a (mostly) backend open source devloper 
+some of my interests are projects that invlove ml, music, and art.
 
 
 - I’m currently working on a tv-show version of wordle 
-- you can reach me at nkoliha@gmail.com
-- im currently learning c# 
+- You can reach me at nkoliha@gmail.com
+- I'm currently learning c# 
 
 
 
