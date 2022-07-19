@@ -2,7 +2,7 @@
 
 Im a (mostly) backend open source devloper 
 some of my interests are projects that invlove ml, music, and art.
-<a href="superpotato9.com"> also checkout my website </a>
+<a href="superpotato9.com">  checkout my website to see more </a>
 
 
 - I’m currently working on a tv-show version of wordle 
