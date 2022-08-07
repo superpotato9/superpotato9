@@ -5,9 +5,9 @@ some of my interests are projects that invlove ml, music, and art.
 <a href="superpotato9.com">  checkout my website to see more </a>
 
 
-- I’m currently working on a tv-show version of wordle 
+- I’m currently working on learning assembly
 - You can reach me at nkoliha@gmail.com
-- I'm currently learning c# 
+
 
 
 
