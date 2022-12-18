@@ -5,7 +5,7 @@ some of my interests are projects that invlove ml, music, and art.
 <a href="https://superpotato9.com">  checkout my website to see more </a>
 
 
-- I’m currently working on <a href="https://studypod.tech">studypod.tech</a>
+- I’m currently working on flatpack synth
 - You can reach me at nkoliha@gmail.com
 
 
